@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>frame688.jpg</filename>
+	<path>F:\ValorantThingy\video to frames\frames\frame688.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enemy_head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>540</ymin>
+			<xmax>969</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>enemy_body</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>951</xmin>
+			<ymin>554</ymin>
+			<xmax>975</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

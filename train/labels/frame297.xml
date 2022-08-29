@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>frame297.jpg</filename>
+	<path>F:\ValorantThingy\video to frames\frames\frame297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enemy_head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>925</xmin>
+			<ymin>532</ymin>
+			<xmax>945</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>enemy_body</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>554</ymin>
+			<xmax>967</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>
