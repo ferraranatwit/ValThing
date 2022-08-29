@@ -1,0 +1,38 @@
+<annotation>
+	<folder>v2</folder>
+	<filename>frame14.jpg</filename>
+	<path>F:\ValorantThingy\video to frames\frames\v2\frame14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enemy_head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>529</ymin>
+			<xmax>1001</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>enemy_body</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>545</ymin>
+			<xmax>1023</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>
