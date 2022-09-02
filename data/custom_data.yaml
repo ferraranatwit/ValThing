@@ -1,4 +1,0 @@
-train: ./data/train
-val: ./data/val
-nc: 3
-names: ['enemy_gen','enemy_body','enemy_head']
